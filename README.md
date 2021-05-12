@@ -10,11 +10,14 @@ that allows users to thoroughly plan & list the items they want to get before sh
 ## Details of Simulator Used for Testing
 
 Phone: Samsung Galaxy Note 8
+
 Android version: 9
+
 The run of testing with the simulator ran smoothly
 
 ## URL to Android Studio Project
 Github: https://github.com/Artlessandro/Fridge-It/
+
 OneDrive: https://uweacuk-my.sharepoint.com/:u:/g/personal/alessandro2_gontay_live_uwe_ac_uk/EerYxLK0ap9Pp9HUH0FtK0EBhpKHpw-fNmmKypfDBVM1WQ?e=k3LaF3
 
 ## URL to App Demo Video

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Fridge It</string>
+    <string name="freezer">Freezer</string>
+    <string name="add">Add</string>
+    <string name="pantry">Pantry</string>
+    <string name="shopping">Shopping</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="shopping_list">Shopping List</string>
+    <string name="type_the_name_and_select_the_expiration_date_where_the_item_will_be_stored_in"><![CDATA[Type the name and select the expiration date & where the item will be stored in]]></string>
+    <string name="add_new_item">Add New Item</string>
+    <string name="item_name">item name</string>
+    <string name="date">Date</string>
+    <string name="fridge">Fridge</string>
+    <string name="cancel">CANCEl</string>
+    <string name="_0_days_left">0 days left</string>
+    <string name="_20_10_2021">20/10/2021</string>
+    <string name="update_item">Update Item</string>
+    <string name="update">Update</string>
+    <string name="delete">DElete</string>
+    <string name="edit_shopping_item">EDIT SHOPPING ITEM</string>
+    <string name="add_shopping_item">Add Shopping Item</string>
+    <string name="enter_shopping_item">enter shopping item</string>
+</resources>

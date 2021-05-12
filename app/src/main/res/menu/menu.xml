@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tbFridge"
+        android:icon="@drawable/fridge"
+        android:title="@string/fridge" />
+    <item
+        android:id="@+id/tbReezer"
+        android:icon="@drawable/freezer"
+        android:title="@string/freezer" />
+    <item
+        android:id="@+id/tbAdd"
+        android:icon="@drawable/add"
+        android:title="@string/add" />
+    <item
+        android:id="@+id/tbPantry"
+        android:icon="@drawable/pantry"
+        android:title="@string/pantry" />
+    <item
+        android:id="@+id/tbShopping"
+        android:icon="@drawable/shopping"
+        android:title="@string/shopping" />
+</menu>

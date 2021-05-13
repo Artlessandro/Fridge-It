@@ -16,9 +16,7 @@ Android version: 9
 The run of testing with the simulator ran smoothly
 
 ## URL to Android Studio Project
-Github: https://github.com/Artlessandro/Fridge-It/
-
-OneDrive: https://uweacuk-my.sharepoint.com/:u:/g/personal/alessandro2_gontay_live_uwe_ac_uk/EerYxLK0ap9Pp9HUH0FtK0EBhpKHpw-fNmmKypfDBVM1WQ?e=k3LaF3
+OneDrive: https://uweacuk-my.sharepoint.com/:u:/g/personal/alessandro2_gontay_live_uwe_ac_uk/EQ2TAkQgV4dKstF2rcQceXsBRNi0ihHnXXxHMuBQB2wqrQ?e=oabrHW 
 
 ## URL to App Demo Video
 OneDrive: https://uweacuk-my.sharepoint.com/:v:/g/personal/alessandro2_gontay_live_uwe_ac_uk/EdoIvZBF2-1DqvfI00yCw5EBzFuTKzKgogTIv-ZRL-fxOA?e=qcGgSd
